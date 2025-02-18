@@ -2,6 +2,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/holyshell/awesome-psychology-learning)
 ![GitHub forks](https://img.shields.io/github/forks/holyshell/awesome-psychology-learning)
+![GitHub watchers](https://img.shields.io/github/watchers/holyshell/awesome-psychology-learning)
 ![GitHub License](https://img.shields.io/github/license/holyshell/awesome-psychology-learning) 
 
 [心理学](https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%AD%A6)（[Psychology](https://en.wikipedia.org/wiki/Psychology)）是一门研究人类和动物的心理现象、意识和行为的科学。它既是一门理论学科，也是一门应用学科。心理学的研究领域众多，作为一名心理学爱好者，按照个人理解，收集和整理心理学相关资源作为学习索引，以书籍为主，其他材料为辅：
