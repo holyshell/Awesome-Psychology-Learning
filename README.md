@@ -1,16 +1,14 @@
 # awesome-psychology-learning
 
 [心理学](https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%AD%A6)（[Psychology](https://en.wikipedia.org/wiki/Psychology)）是一门研究人类和动物的心理现象、意识和行为的科学。它既是一门理论学科，也是一门应用学科。心理学的研究领域众多，作为一名心理学爱好者，按照个人理解，收集和整理心理学相关资源作为学习索引，以书籍为主，其他材料为辅：
-
 - 内容基于现代心理学，资源众多无法穷尽，不定时补充完善；
 - 书籍按照`中文名、英文名、作者`的方式展示：
   - 点击书籍名称进入中文版豆瓣页面；
   - 点击作者名称进入作者个人主页或 Wikipedia 介绍；
   - 部分书籍的中文翻译版次远落后英文版，条件允许时建议阅读英文原版；
-
 - 若有资源补充或发现资源链接失效、错误等欢迎提交 issues ；
 - 部分资源需要科学上网才可以访问；
-- 仓库地址：[https://github.com/holyshell/awesome-psychology-learning](https://github.com/holyshell/awesome-psychology-learning)。
+- [本仓库地址](https://github.com/holyshell/awesome-psychology-learning)。
 
 ## 心理学史
 
@@ -409,10 +407,8 @@
 [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology)
 
 
-## 交流群组
-
-
+## 交流群
+<img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/awesome-psychology-learning/refs/heads/main/img/group.JPG">
 
 ## Best Wishes
-
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
