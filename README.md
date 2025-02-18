@@ -1,4 +1,4 @@
-# awesome-psychology-learning
+# Awesome-Psychology-Learning
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/holyshell/awesome-psychology-learning)
 ![GitHub forks](https://img.shields.io/github/forks/holyshell/awesome-psychology-learning)
@@ -13,7 +13,7 @@
   - 部分书籍的中文翻译版次远落后英文版，条件允许时建议阅读英文原版；
 - 若有资源补充或发现资源链接失效、错误等欢迎提交 issues ；
 - 部分资源需要科学上网才可以访问；
-- 如果你也是心理学爱好者或从业者欢迎[加入群组](#交流群)一起交流 😄
+- 欢迎心理学爱好者或从业者[加入群组](#交流群)一起交流 :)
 - [本仓库地址](https://github.com/holyshell/awesome-psychology-learning)。
 
 ## 心理学史
@@ -418,3 +418,8 @@
 
 ## Best Wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
+
+## Todo
+- [ ] 增加部分心理学分支内容；
+- [ ] 完善心理咨询部分的内容；
+- [ ] 其他资源的完善。
