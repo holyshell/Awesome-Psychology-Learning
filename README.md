@@ -419,7 +419,3 @@
 ## Best Wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
 
-## Todo
-- [ ] 增加部分心理学分支内容；
-- [ ] 完善心理咨询部分的内容；
-- [ ] 其他资源的完善。
