@@ -414,7 +414,7 @@
 
 
 ## 交流群
-<img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/Awesome-Psychology-Learning/refs/heads/main/img/chat3.JPG">
+<img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/Awesome-Psychology-Learning/refs/heads/main/img/chat4.JPG">
 
 ## Best Wishes
 <img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
