@@ -1,4 +1,4 @@
-# Awesome-Psychology-Learning
+# Awesome-Psychology-Learning ![](https://raw.githubusercontent.com/sindresorhus/awesome/f4a2c36f1fe1b9d5a0784de816b749e2f6e01add/media/badge-flat.svg)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/holyshell/awesome-psychology-learning)
 ![GitHub forks](https://img.shields.io/github/forks/holyshell/awesome-psychology-learning)
