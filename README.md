@@ -13,7 +13,7 @@
   - 部分书籍的中文翻译版次远落后英文版，条件允许时建议阅读英文原版；
 - 若有资源补充或发现资源链接失效、错误等欢迎提交 issues ；
 - 部分资源需要科学上网才可以访问；
-- 欢迎心理学爱好者或从业者[加入群组](#交流群)一起交流 :)
+- 欢迎心理学爱好者或从业者[加入群组](#支持与交流)一起交流 :)
 - [本仓库地址](https://github.com/holyshell/awesome-psychology-learning)。
 
 ## 心理学史
@@ -413,9 +413,10 @@
 [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology)
 
 
-## 交流群
-<img width = "350" height = "550" src="https://raw.githubusercontent.com/holyshell/Awesome-Psychology-Learning/refs/heads/main/img/chat5.JPG">
+## 支持与交流
+> 如果这些内容对你有帮助，可以请我喝杯咖啡☕，或加入交流群，我们一起聊聊心理学:)
 
-## Best Wishes
-<img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
+| 微信赞赏码                   | 微信交流群                         | 联系我                  |
+|----------------------------|----------------------------------|-------------------------|
+|![微信赞赏](./img/reward.jpg) | ![微信群](./img/IMG_9917.JPG) | ![联系我](./img/My.jpg)
 
