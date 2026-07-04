@@ -437,3 +437,8 @@
 |----------------------------|----------------------------------|-------------------------|
 |![微信赞赏](./img/reward.jpg) | ![微信群](./img/IMG_6994.JPG) | ![联系我](./img/myid.jpg)
 
+
+
+40个心理学法律与认知偏见的交互式学习工具。
+
+### [Psychology Laws Awesome](https://github.com/daligao/psychology-laws-awesome)
