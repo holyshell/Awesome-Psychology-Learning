@@ -369,6 +369,8 @@
 
 [B站：南大心理咨询的理论与方法](https://www.bilibili.com/video/BV1BR4y1x7L5)
 
+[家谱图（Genogram）符号表 PDF](https://genogramai.com/zh/pdf/jiaputu-fuhao.pdf)：家庭治疗与个案评估常用的家谱图符号与关系线说明，可免费打印（另有[空白三代家谱图模板](https://genogramai.com/zh/pdf/jiaputu-moban-sandai.pdf)）
+
 ## 心理学家
 
 请参考百科词条[心理学家](https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%AD%B8%E5%AE%B6)（[Psychologist](https://en.wikipedia.org/wiki/Psychologist)）、[心理学家列表](https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%AD%A6%E5%AE%B6%E5%88%97%E8%A1%A8)（[List of psychologists](https://en.wikipedia.org/wiki/List_of_psychologists)）或各类书籍中提及的。
